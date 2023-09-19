@@ -1,0 +1,15 @@
+print("Hello, \world.")
+print("Hi, world.")
+print("Hey, world.")
+print("Hello, world.")
+print("Hum, world.")
+print("123456.")
+print('''
+DIT
+^o^
+SAU
+''')
+print("""
+ID : 6652410003
+NAME ; paphawarin
+""") 
